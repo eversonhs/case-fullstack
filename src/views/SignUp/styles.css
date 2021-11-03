@@ -1,0 +1,34 @@
+
+.signUpContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.signUpForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+
+.registerButton {
+    margin-top: 5vh;
+    width: 100%;
+    height: 10vh;
+    font-size: 1.6rem;
+    color: #000;
+    background-color: #fff;
+}
+
+.registerButton:hover {
+    filter: brightness(0.9);
+    cursor: pointer;
+}
+
+.logo {
+    width: 40%;
+    height: auto;
+}

@@ -1,0 +1,19 @@
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+.logo {
+  width: 40%;
+  height: auto;
+}
+
+.headerContainer h1 {
+  font-size: 3rem;
+  margin-right: 20%;
+}

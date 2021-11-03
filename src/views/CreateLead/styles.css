@@ -1,0 +1,42 @@
+.createLeadContainer {
+    padding: 2% 5%;
+}
+
+.createLeadForm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textInputs {
+    width: 35%;
+    border: none;
+}
+
+.opportunitiesContainer {
+    height: 100%;
+    font-size: 2rem;
+}
+
+.opportunitiesContainer legend {
+    margin-bottom: 2rem;
+}
+
+.saveButton {
+    padding: 1rem 5rem;
+    margin-top: 3rem;
+    font-size: 2.5rem;
+  
+    color: #fff;
+    background-color: #2196f3;
+  
+    width: 30vw;
+    border: none;
+  }
+  
+  .saveButton:hover {
+    filter: brightness(0.9);
+    cursor: pointer;
+  }
+  
